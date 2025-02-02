@@ -26,7 +26,7 @@ def load_data():
         return data, data_avant
     except FileNotFoundError:
         st.error("Le fichier 'happycommun1.csv' est introuvable")
-        return None
+        return None 
 
 data, data_avant = load_data()
 
