@@ -738,7 +738,7 @@ Il convient alors de ré-entrainer les modèles avec ces paramètres optimisés 
                     Cette analyse met en évidence les principaux facteurs influençant le bonheur à travers le monde et en Europe. 
                     Les modèles prédictifs ont permis de mieux comprendre l'impact des variables sociales, économiques et politiques 
                     sur le bien-être global. <br>
-                    Au travers de cette visualisation et modélisation, il a été mis en évidence que 
+                    Au travers de la DataViz et de la modélisation, il a été mis en évidence que 
                     la richesse par habitant (PIB) d'un pays est le facteur influençant le plus l'indice de bonheur. 
                     <br>Notre analyse pourrait encore être enrichie avec d'autres aspects comme le bien-être au travail, le genre, l'âge des participants, etc. 
                     D'ailleurs, les données de 2024 qui viennent d'être publiées intègrent une notion de génération.<br>
