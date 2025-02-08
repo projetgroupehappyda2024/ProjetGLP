@@ -36,7 +36,7 @@ st.sidebar.markdown("<h1 style='font-weight:normal; color:#000000;'><b>Le Bonheu
 st.sidebar.markdown('<hr>', unsafe_allow_html=True)
 menu = st.sidebar.radio("",["Introduction", "Hypothèses", "Sources", "Visualisation", "Modélisation", "Analyse Machine Learning", "Conclusion"])
 st.sidebar.markdown('<hr>', unsafe_allow_html=True)
-st.sidebar.markdown("<h4>🌍 Projet réalisé par:</h4>  <p>Lodavé LEMA, Gaëlle MARINESQUE, <br>Hélène KHALIDI et Patrick BOUKÉ</p><h4>Promotion DA - Juin 2024</h4>", unsafe_allow_html=True)   
+st.sidebar.markdown("<h4>🌍 Projet réalisé par:</h4>  <p>Lodavé LEMA, Gaëlle MARINESQUE, <br>et Patrick BOUKÉ</p><h4>Promotion DA - Juin 2024</h4>", unsafe_allow_html=True)   
 
 if data is not None:  
 
